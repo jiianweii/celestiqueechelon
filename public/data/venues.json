@@ -1,0 +1,84 @@
+[
+  {
+    "id": 0,
+    "name": "Grand Crystal Ballroom",
+    "maxCapacity": 250,
+    "description": "A majestic ballroom adorned with crystal chandeliers, marble flooring, and high ceilings. Designed for unforgettable weddings, gala dinners, and luxury banquets.",
+    "purposes": ["Weddings", "Galas", "Corporate Dinners", "Award Ceremonies"],
+    "services": [
+      "Gourmet Catering",
+      "Event Planning",
+      "Stage Setup",
+      "Lighting & Sound Design"
+    ],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//GrandCrystalBallroom.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Skyview Rooftop Lounge",
+    "maxCapacity": 120,
+    "description": "A sophisticated rooftop venue with panoramic skyline views, ideal for private receptions and upscale cocktail events under the stars.",
+    "purposes": [
+      "Private Celebrations",
+      "Cocktail Receptions",
+      "Engagement Parties"
+    ],
+    "services": [
+      "Signature Bar Service",
+      "Live Entertainment",
+      "Ambient Lighting",
+      "Custom Decor"
+    ],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//SkyviewRooftopLounge.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Executive Summit Boardroom",
+    "maxCapacity": 30,
+    "description": "A luxurious and fully equipped boardroom for executive meetings, strategy sessions, and VIP client presentations.",
+    "purposes": ["Corporate Functions", "Business Meetings", "Workshops"],
+    "services": [
+      "Video Conferencing",
+      "Concierge Service",
+      "Gourmet Refreshments"
+    ],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//ExecutiveSummitBoardroom.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The Rose Garden Courtyard",
+    "maxCapacity": 100,
+    "description": "A serene outdoor courtyard surrounded by manicured gardens, perfect for intimate wedding ceremonies and elegant garden parties.",
+    "purposes": ["Weddings", "Outdoor Ceremonies", "Bridal Showers"],
+    "services": [
+      "Floral Arrangements",
+      "Live Music",
+      "Event Coordination",
+      "Photography Packages"
+    ],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//TheRoseGardenCourtyard.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Velvet Lounge",
+    "maxCapacity": 70,
+    "description": "A plush and modern indoor venue featuring velvet seating, mood lighting, and a sleek bar – ideal for social mixers and private parties.",
+    "purposes": ["Private Celebrations", "Networking Events", "After-Parties"],
+    "services": [
+      "Premium Bar",
+      "DJ Services",
+      "VIP Service",
+      "Custom Menu Options"
+    ],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//VelvetLounge.jpeg"
+  },
+  {
+    "id": 5,
+    "name": "Crystal Foyer Gallery",
+    "maxCapacity": 60,
+    "description": "An elegant pre-function space with art displays and natural lighting, ideal for welcome receptions, cocktail hours, or exhibitions.",
+    "purposes": ["Receptions", "Art Showcases", "Networking"],
+    "services": ["Champagne Service", "Display Setup", "Live Piano Music"],
+    "image": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/venues//CrystalFoyerGallery.jpeg"
+  }
+]

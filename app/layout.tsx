@@ -29,12 +29,12 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased w-dvw relative`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased relative`}
       >
         <section className="fixed top-0 left-0 w-full z-1">
           <Navigation />
         </section>
-        <main className="max-w-[100dvw]">{children}</main>
+        <main>{children}</main>
       </body>
     </html>
   );

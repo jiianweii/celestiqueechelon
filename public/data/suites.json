@@ -1,0 +1,102 @@
+[
+  {
+    "id": 0,
+    "type": "Deluxe",
+    "capacity": 2,
+    "description": "A refined and cozy suite offering elegant comfort for couples or solo travelers. Ideal for both business and leisure stays.",
+    "addons": ["High-floor views", "Smoking area", "Late checkout on request"],
+    "highlights": [
+      "Plush king-size bed",
+      "Marble bathroom",
+      "City skyline view"
+    ],
+    "services": ["24-hour room service", "In-room dining", "Laundry service"],
+    "facilities": [
+      "Smart TV",
+      "Mini bar",
+      "Luxury toiletries",
+      "Coffee machine",
+      "High-speed Wi-Fi"
+    ],
+    "url": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/suites//deluxe.jpg"
+  },
+  {
+    "id": 1,
+    "type": "Studio",
+    "capacity": 3,
+    "description": "Spacious and stylish, the Studio Suite blends modern design with residential comfort, ideal for longer stays or small families.",
+    "addons": ["Kitchenette", "Extra rollaway bed", "Balcony on request"],
+    "highlights": [
+      "Open-plan layout",
+      "Panoramic windows",
+      "Comfortable workspace"
+    ],
+    "services": [
+      "Housekeeping twice daily",
+      "Grocery delivery",
+      "Personal concierge"
+    ],
+    "facilities": [
+      "Kitchenette",
+      "Washer & dryer",
+      "Smart TV",
+      "Bluetooth sound system",
+      "In-room safe"
+    ],
+    "url": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/suites//studio.jpeg"
+  },
+  {
+    "id": 2,
+    "type": "Penthouse",
+    "capacity": 4,
+    "description": "An exclusive top-floor retreat with sweeping views, luxurious finishes, and a private terrace. Perfect for high-profile guests or celebratory stays.",
+    "addons": [
+      "Private dinner setup",
+      "Jacuzzi access",
+      "In-suite spa treatments"
+    ],
+    "highlights": [
+      "Private rooftop terrace",
+      "Separate living and dining areas",
+      "Butler service on request"
+    ],
+    "services": ["Private check-in", "Airport transfers", "In-suite massage"],
+    "facilities": [
+      "Full kitchen",
+      "Wine fridge",
+      "Fireplace",
+      "Walk-in closet",
+      "Luxury bath amenities"
+    ],
+    "url": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/suites//penthouse.jpg"
+  },
+  {
+    "id": 3,
+    "type": "Presidential",
+    "capacity": 6,
+    "description": "The ultimate in prestige and comfort, our Presidential Suite is a palatial space with multiple bedrooms, a private office, and dedicated service staff.",
+    "addons": [
+      "Private chef",
+      "Security detail coordination",
+      "Meeting room setup"
+    ],
+    "highlights": [
+      "Panoramic city & ocean views",
+      "Formal dining room",
+      "Private office & library"
+    ],
+    "services": [
+      "Chauffeur-driven car",
+      "Personal butler",
+      "Custom-tailored experiences"
+    ],
+    "facilities": [
+      "Multiple bedrooms",
+      "Spa-style bathrooms",
+      "Grand piano",
+      "Private bar",
+      "Smart home controls"
+    ],
+    "url": "https://lztpagzpiczmuetpfnho.supabase.co/storage/v1/object/public/suites//presidential.png"
+  }
+]
